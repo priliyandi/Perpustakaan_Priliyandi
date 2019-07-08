@@ -11,7 +11,7 @@ date_default_timezone_set("Asia/Jakarta");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Sistem Informasi Perpustakaan SMA Sauqi Nusantara</title>
+<title>Sistem Informasi Perpustakaan</title>
 
 <link rel="stylesheet" type="text/css" href="styles/style.css">
 
