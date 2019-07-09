@@ -2,7 +2,7 @@
 include'../koneksi.php';
 $id_user=$_GET['id'];
 
-mysql_query(
+mysqli_query($koneksi,
 	"DELETE FROM tbuser
 	WHERE iduser='$id_user'"
 );

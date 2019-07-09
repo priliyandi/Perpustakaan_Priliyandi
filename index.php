@@ -9,6 +9,7 @@ $tgl=date('Y-m-d');
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body >
+
 	<div id="container">
 		<div id="header">
 			<div id="logo-perpustakaan-container">
@@ -49,7 +50,7 @@ $tgl=date('Y-m-d');
 		<div class="row"><br/><br/><br/>
 			<div class="col-md-10 col-md-offset-1" style="background-image:url('../asanoer-background.jpg')">
 				<div class="col-md-4 col-md-offset-4">
-					<div class="panel panel-warning login-panel" style="background-color:rgba(255, 255, 255, 0.6);position:relative;">
+					<div class="panel panel-warning login-panel" style="background-color:rgba(201, 201, 255, 0.6);position:relative;">
 						
 						<div class="panel-footer">
 							
